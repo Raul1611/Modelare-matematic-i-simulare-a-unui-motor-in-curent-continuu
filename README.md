@@ -1,0 +1,1 @@
+# Modelare-matematic-i-simulare-a-unui-motor-n-curent-continuu
